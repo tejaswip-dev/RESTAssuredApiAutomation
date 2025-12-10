@@ -1,0 +1,22 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Maven target directory and temporary build files
+target/
+.mvn/
+pom.xml.tag
+pom.xml.next
+pom.xml.releaseBackup
+logs/
+test-output/
+
+# TestNG generated reports directory
+test-output/
+
+# Eclipse/OS generated files
+*.class
+*.log
+.DS_Store
+Thumbs.db
